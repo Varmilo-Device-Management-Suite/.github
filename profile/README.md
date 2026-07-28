@@ -1,7 +1,7 @@
 # Varmilo – Premium Mechanical Keyboard Configuration & Device Management Suite
 
 <div align="center">
-  <img src="https://varmilo.kbhub.org/vah.png" width="320" alt="Varmilo Logo"/>
+  <img src="https://varmilo.kbhub.org/vah.png" width="450" alt="Varmilo Logo"/>
 </div>
 
 <br>
